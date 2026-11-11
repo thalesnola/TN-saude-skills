@@ -1,0 +1,13 @@
+# Dado de saúde nunca sobe: só skills e regras
+DADOS_*/
+FOTOS/
+analise_wearables/
+Analise_*.md
+inicial_*.md
+__pycache__/
+*.zip
+*.pdf
+*.png
+*.jpg
+*.csv
+!Registro_Mestre_Demo.md
