@@ -2,6 +2,9 @@
 
 ---
 
+![Demonstração Motion — TN-saude-skills](docs/diagrama-motion.svg)
+
+
 # saude-skills
 
 Repositório público demonstrativo das skills especializadas do projeto Saúde (Claude Code e OpenAI Codex): ingestão de exames laboratoriais, balanças de bioimpedância, antropometria, fotos corporais, treinos, wearables e prescrições didáticas integradas num Registro Mestre local.
